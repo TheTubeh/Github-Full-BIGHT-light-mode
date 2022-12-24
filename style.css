@@ -1,0 +1,15 @@
+:root {
+    --color-header-bg: #fff !important;
+    --color-header-text: #6e7781 !important;
+    --color-header-logo: #24292f !important;
+    --color-header-search-bg: var(--color-canvas-inset) !important;
+    --color-header-search-border: var(--color-border-default) !important;
+}
+
+.header-search-input::placeholder {
+    color: var(--color-checks-input-placeholder-text) !important;
+}
+
+.Header {
+    border-bottom: var(--primer-borderWidth-thin, 1px) solid var(--color-border-muted);
+}

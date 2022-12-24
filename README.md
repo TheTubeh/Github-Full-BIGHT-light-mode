@@ -1,6 +1,6 @@
 <h1>HOW TO INSTAL FOR STYLUS</h1>
 
-Step 1. Install Stylus - https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en
+Step 1. <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Install Stylus</a>
 
 Step 2. Go on get if your not already on it.
 
